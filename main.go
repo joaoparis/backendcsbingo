@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/joaoparis/backendcsbinGO/internal/api"
+	"github.com/joaoparis/backendcsbingo/internal/api"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"

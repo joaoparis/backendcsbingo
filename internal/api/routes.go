@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/joaoparis/backendcsbinGO/internal/api/handlers"
+	"github.com/joaoparis/backendcsbingo/internal/api/handlers"
 
 	"github.com/gofiber/fiber/v2"
 )

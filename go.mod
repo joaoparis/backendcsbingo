@@ -1,4 +1,4 @@
-module github.com/joaoparis/backendcsbinGO
+module github.com/joaoparis/backendcsbingo
 
 go 1.25.0
 
